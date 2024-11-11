@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background-color: #043873;
+  font-family: "Inter", sans-serif;
+}
+
+body::-webkit-scrollbar{
+  display: none;
+}
+
+
